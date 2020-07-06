@@ -1,3 +1,20 @@
+html {
+    font-size: 10px;
+    background-color: #a9a9a9;
+  }
+
+header {
+    margin-bottom: 10px;
+    display: flex;
+    flex-flow: row wrap;
+    }
+
+nav {
+    height: 50px;
+    flex: 100%;
+    display: flex;
+    }
+
 body {
     max-width: 800px;
     margin: 0 auto;
