@@ -9,3 +9,5 @@
 知乎：张云舞
 微博：_张云舞
 微信公众号：北山闲话茶馆
+
+[test](http://zhangyunwu.github.io/blob/master/random_variable.pdf)
