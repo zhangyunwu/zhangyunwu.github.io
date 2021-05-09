@@ -3,4 +3,4 @@
 ## Nastran要点
 
 ## 随机振动
-[随机变量](www.baidu.com)
+[随机变量](1.random_process.html)
